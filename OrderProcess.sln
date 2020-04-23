@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderProcess.Tests", "OrderProcess.Tests\OrderProcess.Tests.csproj", "{50F103A0-6000-4AD1-9623-D0C76E4830AF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderProcess.API", "OrderProcess.API\OrderProcess.API.csproj", "{5228B37D-5825-421F-B98A-7D02BB872ABB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50F103A0-6000-4AD1-9623-D0C76E4830AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50F103A0-6000-4AD1-9623-D0C76E4830AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50F103A0-6000-4AD1-9623-D0C76E4830AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50F103A0-6000-4AD1-9623-D0C76E4830AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5228B37D-5825-421F-B98A-7D02BB872ABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5228B37D-5825-421F-B98A-7D02BB872ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5228B37D-5825-421F-B98A-7D02BB872ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5228B37D-5825-421F-B98A-7D02BB872ABB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A48A6D4F-D922-4F83-847A-BF4B764B2F18}
+	EndGlobalSection
+EndGlobal
